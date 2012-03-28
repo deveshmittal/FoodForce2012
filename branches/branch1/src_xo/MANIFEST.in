@@ -1,0 +1,7 @@
+include *.* NEWS README
+recursive-include activity *.svg *.info
+include olpcgames/COPYING
+recursive-include olpcgames *.*
+recursive-include data *.*
+recursive-include art *.*
+recursive-include po *.*

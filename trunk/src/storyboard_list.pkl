@@ -1,0 +1,10 @@
+I2
+.(lp0
+I1
+aS'Gokul An Indian Village'
+p1
+a.(lp0
+I2
+aS'Haiti Earthquake'
+p1
+a.

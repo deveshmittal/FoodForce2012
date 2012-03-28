@@ -1,0 +1,26 @@
+This is what  believe should be the organization of the storyboard folders.
+
+src (folder)
+      storyboards (folder)
+           Storyxyz (folder)
+               storyboard.pkl (the storyboard.pkl file for that storyboard)
+               data files (folder containing the data files regarding that story, data1.pkl, data2.pkl and so on)
+               
+               images (folder)
+                    character images(folder containing images of the characters in the story)
+                    chat images (folder containing other images to be shown with the chats)
+
+(The indentation represents the hierarchy of the folder)
+
+Also, once you are done with this, the next steps should be :
+
+Create storyboard.pkl file and data.pkl files for the new storyboard. and collect images required for the chats, I guess we already have the required images for 
+he characters.
+Implement all the new features (if any) required for the new storyboard. I guess it would be great to have a window at the starting of the story to introduce 
+the characters even.
+Try and replace the old storyboard files with this new one and see if it is working properly.
+Develop GUI to select storyboards from the given ones.
+
+Do let me know if you have some issues/problems/doubts with any of the above tasks.
+
+Regards,
